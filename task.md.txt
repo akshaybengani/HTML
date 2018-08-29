@@ -1,0 +1,10 @@
+Design A page
+
+A heading XYZ with background color red
+Create a Table background of 1st row should be different
+colums are 
+
+P	R	T
+10000	12%	2
+12000	10%	3
+Total 5 entries
